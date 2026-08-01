@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-8mqo49.pdkconstructionwa.com/sitemap.xml
